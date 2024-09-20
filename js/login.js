@@ -10,6 +10,7 @@ console.log('login button clicked');
 const phoneNumber=document.getElementById('phone-number').value;
 const pinNumber=this.document.getElementById('pin-number').value;
 
+
 console.log(phoneNumber,pinNumber);
 
 if(phoneNumber==='5'&& pinNumber==='1234'){
